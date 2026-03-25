@@ -101,5 +101,9 @@ Your report should contain:
 <img width="735" height="1280" alt="image" src="https://github.com/user-attachments/assets/1a1ab31b-be03-4384-8508-f1be04fe4301" />
 <img width="740" height="1280" alt="image" src="https://github.com/user-attachments/assets/bc44e180-1ded-4dbc-9d07-c7e7ecc4f8c3" />
 
+## MODEL GRAPH
+<img width="1125" height="388" alt="image" src="https://github.com/user-attachments/assets/b4185cb3-b914-453d-833e-b558925e1840" />
+
+---
 ## Result 
 Thus Attenuation-Limited Fiber Length with budget equation is calculated and verified successfully
