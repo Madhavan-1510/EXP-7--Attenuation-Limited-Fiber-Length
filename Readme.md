@@ -82,7 +82,18 @@ Your report should contain:
   |-------------------|-----------------------|----------|-----|
   
 
-- **Written Summary** of observations and explanations of differences.  
+- **Written Summary** of observations and explanations of differences.
+
+## BLOCK DIAGRAM 
+**Attenuation-Limited Fiber Length 2.5 GB**
+
+<img width="613" height="323" alt="image" src="https://github.com/user-attachments/assets/371e9e93-2acd-45fa-83da-b2dd0f356af2" />
+
+**Attenuation-Limited Fiber Length 10 GB**
+
+<img width="613" height="323" alt="image" src="https://github.com/user-attachments/assets/9f0926fd-cc04-4453-a2b0-076367d85153" />
+
+---
 
 ## Calculation and Tabulation
 
